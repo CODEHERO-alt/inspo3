@@ -1,0 +1,35 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 12 Mar 2026 09:32:56 at https://www.designjoy.co/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps0u0%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" -%F  -%l "en, *" https://www.designjoy.co/ -O1 "D:\My Web Sites\inspo3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:34:34	Warning: 	Found for https://calendly.com/assets/external/widget.css
+09:34:34	Warning: 	Warning moved treated for https://calendly.com/assets/external/widget.css (real one is https://assets.calendly.com/assets/external/widget.css)
+09:34:36	Warning: 	Found for https://calendly.com/assets/external/widget.js
+09:34:36	Warning: 	Warning moved treated for https://calendly.com/assets/external/widget.js (real one is https://assets.calendly.com/assets/external/widget.js)
+09:34:36	Warning: 	Moved Permanently for https://www.designjoy.co/signals/config/
+09:34:36	Warning: 	File has moved from https://www.designjoy.co/signals/config/ to https://www.designjoy.co/signals/config
+09:34:36	Error: 	"Not Found" (404) at link https://www.designjoy.co/t (from https://connect.facebook.net/en_US/fbevents.js)
+09:34:36	Error: 	"Not Found" (404) at link https://www.designjoy.co/e (from https://connect.facebook.net/en_US/fbevents.js)
+09:34:36	Warning: 	Moved Permanently for https://www.designjoy.co/signals/plugins/
+09:34:36	Warning: 	File has moved from https://www.designjoy.co/signals/plugins/ to https://www.designjoy.co/signals/plugins
+09:34:37	Warning: 	Moved Permanently for https://www.designjoy.co/schema.org/
+09:34:37	Warning: 	File has moved from https://www.designjoy.co/schema.org/ to https://www.designjoy.co/schema.org
+09:34:37	Error: 	"Not Found" (404) at link https://www.designjoy.co/t.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+09:34:37	Error: 	"Not Found" (404) at link https://www.designjoy.co/o (from https://connect.facebook.net/en_US/fbevents.js)
+09:34:37	Error: 	"Not Found" (404) at link https://www.designjoy.co/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+09:34:37	Error: 	"Not Found" (404) at link https://www.designjoy.co/signals/iwl.js?pixel_id= (from https://connect.facebook.net/en_US/fbevents.js)
+09:34:37	Error: 	"Not Found" (404) at link https://www.designjoy.co/n.dl (from https://connect.facebook.net/en_US/fbevents.js)
+09:34:37	Error: 	"Not Found" (404) at link https://www.designjoy.co/n.rl (from https://connect.facebook.net/en_US/fbevents.js)
+09:34:37	Error: 	"Error when decompressing" (-1) at link https://www.designjoy.co/signals/config (from https://www.designjoy.co/signals/config/)
+09:34:37	Error: 	Unable to save file D:/My Web Sites/inspo3/www.designjoy.co/signals/config: Permission denied
+09:34:37	Error: 	"Error when decompressing" (-1) at link https://www.designjoy.co/signals/plugins (from https://www.designjoy.co/signals/plugins/)
+09:34:37	Error: 	Unable to save file D:/My Web Sites/inspo3/www.designjoy.co/signals/plugins: Permission denied
+09:34:37	Error: 	"Error when decompressing" (-1) at link https://www.designjoy.co/schema.org (from https://www.designjoy.co/schema.org/)
+09:34:37	Error: 	Unable to save file D:/My Web Sites/inspo3/www.designjoy.co/schema.org: Permission denied
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 42 seconds : 55 links scanned, 39 files written (7085545 bytes overall) [5936887 bytes received at 58204 bytes/sec], 1692612 bytes transferred using HTTP compression in 28 files, ratio 27%, 2.1 requests per connection
+(14 errors, 10 warnings, 0 messages)

@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.designjoy.co	TRUE	/	FALSE	1999999999	_cfuvid	sq8KSjaB43XXQerN1WFcgGGKrz40vW2NURAdpTm8Xpk-1773289980.9276788-1.0.1.1-3GngzTN7dMkFJPCUsIRoVfkQSauKXcuUTPxt4io58Wg
+www.designjoy.co	TRUE	/	FALSE	1999999999	SameSite	None
+cal.com	TRUE	/	FALSE	1999999999	__cf_bm	lQEr0ueBqnr7ybRRLKcuHk.2wyPoWriIv8ZvvKe_VM4-1773290015.1629298-1.0.1.1-s7Qv1.zulDsKIUSppdFWnhImr2K55HrNxHX55xxeOeA9NqemD1hkFaj4iDxV.85.QR42mjYpmz0hX94lhWbI3kArFKlLij6RHfuxmi6Ao5Qvl_fGGtV.EKAGhvHG0p8Q
+calendly.com	TRUE	/	FALSE	1999999999	cal_anonymous_id	c40015eb-791c-4235-8cf8-51d4925009e2
+.calendly.com	TRUE	/	FALSE	1999999999	__cf_bm	MaqkwwbP2MY7qcXmRcEKgyQqFdzn63RdgsFbEQftZNQ-1773289988-1.0.1.1-DDt0eabAhVPRqmFZ3.JuAiS9vsvtOkQ5yGyqDXu6cJgpcGMeixg9PZ6F_1WyQz1pMs6LrYyhEstJtupCqC6d7LFtEalF_tdTv7tyFK6vcVs
+.calendly.com	TRUE	/	FALSE	1999999999	_cfuvid	oaiEZAc4EltmycXilQRcP.0B0WUGpjkKNG_OhevgKao-1773289988369-0.0.1.1-604800000
+calendly.com	TRUE	/	FALSE	1999999999	SameSite	None
+
